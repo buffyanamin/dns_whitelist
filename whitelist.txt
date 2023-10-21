@@ -2,7 +2,7 @@
 # @@|laptop-updates.brave.com^$important (disabled)
 # @@|rewards.brave.com^$important (disabled)
 # @@|variations.brave.com^$important (disabled)
-@@|*.turbobit.net^$important
+@@|*turbobit.net^$important
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
 @@|*-*.totallyacdn.com^$important
