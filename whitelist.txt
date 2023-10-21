@@ -2,6 +2,7 @@
 # @@|laptop-updates.brave.com^$important (disabled)
 # @@|rewards.brave.com^$important (disabled)
 # @@|variations.brave.com^$important (disabled)
+@@|*.turbobit.net^$important
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
 @@|*-*.totallyacdn.com^$important
@@ -4796,4 +4797,3 @@
 @@|zorinos.com^$important
 @@|zrn.co^$important
 @@|ztd.dds.microsoft.com^$important
-@@|turbobit.net^$important
