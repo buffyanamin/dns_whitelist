@@ -3,6 +3,7 @@
 # @@|rewards.brave.com^$important (disabled)
 # @@|variations.brave.com^$important (disabled)
 @@|*turbobit.net^$important
+@@|*pornolab.net^$important
 @@|*tezfiles.com^$important
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
