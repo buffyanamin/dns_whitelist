@@ -4,6 +4,7 @@
 # @@|variations.brave.com^$important (disabled)
 @@|*turbobit.net^$important
 @@|*tezfiles.com^$important
+@@|*pornolab.net^$important
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
 @@|*-*.totallyacdn.com^$important
