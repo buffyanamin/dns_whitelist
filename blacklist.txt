@@ -1,2 +1,2 @@
-@@|*fdzone.org^$important
-@@|*gm67.xyz^$important
+||fdzone.org^
+||m67.xyz^
