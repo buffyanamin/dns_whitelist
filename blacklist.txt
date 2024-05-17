@@ -1,2 +1,2 @@
-||fdzone.org^
-||m67.xyz^
+@@||fdzone.org^
+@@||m67.xyz^
