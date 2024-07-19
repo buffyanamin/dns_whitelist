@@ -7,7 +7,6 @@
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
 @@|*-*.totallyacdn.com^$important
-@@|*-cdn.eporner.com^$important
 @@|*-dl.techpowerup.com^$important
 @@|*-ebgames.eb-cdn.com.au^$important
 @@|*-glb-bps-gateway.p76prod.systems^$important
@@ -120,7 +119,6 @@
 @@|0.wikipedia.com^$important
 @@|0eaf.cardinalcommerce.com^$important
 @@|0patch.com^$important
-@@|0xxx.ws^$important
 @@|1.pool.ntp.org^$important
 @@|1337x.to^$important
 @@|149366088.v2.pressablecdn.com^$important
@@ -491,7 +489,6 @@
 @@|assets.codepen.io^$important
 @@|assets.ctfassets.net^$important
 @@|assets.esetstatic.com^$important
-@@|assets.freeones.com^$important
 @@|assets.gentoo.org^$important
 @@|assets.gitlab-static.net^$important
 @@|assets.help.twitch.tv^$important
@@ -542,7 +539,6 @@
 @@|auth.api.np.ac.playstation.net^$important
 @@|auth.assist.gameservices.xboxlive.com^$important
 @@|auth.ato.gov.au^$important
-@@|auth.freeones.com^$important
 @@|auth.gog.com^$important
 @@|auth.kmart.com.au^$important
 @@|auth.lastpass.com^$important
@@ -554,7 +550,6 @@
 @@|av-updateservice.adaware.com^$important
 @@|avaloniaui.net^$important
 @@|avatar-management--avatars.us-west-2.prod.public.atl-paas.net^$important
-@@|avatar.pornone.com^$important
 @@|avatarfiles.alphacoders.com^$important
 @@|avatars*.githubusercontent.com^$important
 @@|avatars.akamai.steamstatic.com^$important
@@ -603,7 +598,6 @@
 @@|beeftext.org^$important
 @@|behindthevoiceactors.com^$important
 @@|beige.xboxservices.com^$important
-@@|bella.porntrex.com^$important
 @@|bethesda.net^$important
 @@|bibo.api.swiftkey.com^$important
 @@|bigw.com.au^$important
@@ -772,9 +766,6 @@
 @@|cdimage.debian.org^$important
 @@|cdimage.deepin.com^$important
 @@|cdimage.ubuntu.com^$important
-@@|cdn*-pic.xvideos-cdn.com^$important
-@@|cdn*-vid-mp4.xvideos-cdn.com^$important
-@@|cdn*-vid.xvideos-cdn.com^$important
 @@|cdn*.appwork.org^$important
 @@|cdn*.aptoide.com^$important
 @@|cdn*.bunkr.is^$important
@@ -782,17 +773,13 @@
 @@|cdn*.evernote.com^$important
 @@|cdn*.iconfinder.com^$important
 @@|cdn*.portableapps.com^$important
-@@|cdn-*.pornone.com^$important
 @@|cdn-dynmedia-1.microsoft.com^$important
 @@|cdn-edge.azureedge.net^$important
 @@|cdn-eu.icons8.com^$important
 @@|cdn-hw.gog.com^$important
 @@|cdn-images.xda-developers.com^$important
 @@|cdn-mirror.chaotic.cx^$important
-@@|cdn-pics.pornhd.com^$important
-@@|cdn-pics.pornhdprime.com^$important
 @@|cdn-s-thewitcher.cdprojektred.com^$important
-@@|cdn-static-cf.pornhd.com^$important
 @@|cdn.adguard.com^$important
 @@|cdn.adtidy.org^$important
 @@|cdn.ageofempires.com^$important
@@ -821,7 +808,6 @@
 @@|cdn.eu.auth0.com^$important
 @@|cdn.flowplayer.com^$important
 @@|cdn.forms.office.net^$important
-@@|cdn.freeones.com^$important
 @@|cdn.fwupd.org^$important
 @@|cdn.globalsigncdn.com.cdn.cloudflare.net^$important
 @@|cdn.gog.com^$important
@@ -874,7 +860,6 @@
 @@|cdn.ziffstatic.com^$important
 @@|cdn0.woolworths.media^$important
 @@|cdn01.bethesda.net^$important
-@@|cdn1-ht-thumbnails.pornerbros.com^$important
 @@|cdn1.downdetector.com^$important
 @@|cdn1.esetstatic.com^$important
 @@|cdn1.unrealengine.com^$important
@@ -886,7 +871,6 @@
 @@|cdn4.appwork.org^$important
 @@|cdn57.androidauthority.net^$important
 @@|cdn7.appwork.org^$important
-@@|cdn77-vid.xvideos-cdn.com^$important
 @@|cdna.pcpartpicker.com^$important
 @@|cdne.gearsofwar.xbox.com^$important
 @@|cdnjs.cloudflare.com^$important
@@ -1102,7 +1086,6 @@
 @@|copyright.help.soundcloud.com^$important
 @@|copyright.soundcloud.com^$important
 @@|copyrights.help.soundcloud.com^$important
-@@|cora.porntrex.com^$important
 @@|core-chat.chatbotize.com^$important
 @@|coresite.mm.fcix.net^$important
 @@|costream.twitch.tv^$important
@@ -1181,7 +1164,6 @@
 @@|d3aqoihi2n8ty8.cloudfront.net^$important
 @@|da.xboxservices.com^$important
 @@|da2.gos.ea.com^$important
-@@|daftsex.com^$important
 @@|daisy.ubuntu.com^$important
 @@|dash.cloudflare.com^$important
 @@|dash.sonicbit.net^$important
@@ -1794,8 +1776,6 @@
 @@|free.hitnews.com^$important
 @@|free.kaspersky.com^$important
 @@|free.nchc.org.tw^$important
-@@|freeones.com^$important
-@@|freeones.xxx^$important
 @@|freetime.mikeconnelly.com^
 @@|freetubeapp.io^$important
 @@|friend-list-view.us.np.communication.playstation.net^$important
@@ -2071,9 +2051,6 @@
 @@|hk.mirrors.thegigabit.com^$important
 @@|hk.pool.ntp.org^$important
 @@|hkg.mirror.rackspace.com^$important
-@@|hls*.xvideos-cdn.com^$important
-@@|hls-hw.xvideos-cdn.com^$important
-@@|hls1-l3.xvideos-cdn.com^$important
 @@|hnd.stats.paypal.com^$important
 @@|hndl.urbackup.org^$important
 @@|home.hulu.com^$important
@@ -2086,8 +2063,6 @@
 @@|homer.dl.playstation.net^$important
 @@|hosts.anudeep.me^$important
 @@|hotmail.com^$important
-@@|hotpornfile.disqus.com^$important
-@@|hotpornfile.org^$important
 @@|houseofmega.com^$important
 @@|howlongtobeat.com^$important
 @@|httpd.apache.org^$important
@@ -2097,7 +2072,6 @@
 @@|hub.deviantart.net^$important
 @@|hub.docker.com^$important
 @@|hubble.mb-cosmos.com^$important
-@@|hubt.pornhub.com^$important
 @@|humblebundle.com^$important
 @@|hydra.easyanticheat.net^$important
 @@|i*.imageban.ru^$important
@@ -2184,19 +2158,14 @@
 @@|images.wikia.nocookie.net^$important
 @@|images5.alphacoders.com^$important
 @@|imageshack.com^$important
-@@|imagetwist.com^$important
 @@|imagizer.imageshack.com^$important
-@@|img*.imagetwist.com^$important
 @@|img-*.cyberdrop.to^$important
-@@|img-*.xvideos-cdn.com^$important
-@@|img-hw.xvideos-cdn.com^$important
 @@|img-prod-cms-rt-microsoft-com.akamaized.net^$important
 @@|img-s-msn-com.akamaized.net^$important
 @@|img.1fichier.com^$important
 @@|img.alibaba.com^$important
 @@|img.askleomedia.com^$important
 @@|img.chocolatey.org^$important
-@@|img.freeones.com^$important
 @@|img.hulu.com^$important
 @@|img.itch.zone^$important
 @@|img.nvidiagrid.net^$important
@@ -2539,7 +2508,6 @@
 @@|master.dl.sourceforge.net^$important
 @@|master.net-radio.fr^$important
 @@|mastiff.ext.hp.com^$important
-@@|matomo.freeones.com^$important
 @@|maxcdn.bootstrapcdn.com^$important
 @@|maxst.icons8.com^$important
 @@|mc.yandex.ru^$important
@@ -3117,7 +3085,6 @@
 @@|photos.live.com^$important
 @@|php.net^$important
 @@|pi-hole.net^$important
-@@|pia.porntrex.com^$important
 @@|picotorrent.org^$important
 @@|pics.ebaystatic.com^$important
 @@|pics.paypal.com^$important
@@ -3168,12 +3135,6 @@
 @@|pop-iso.sfo2.cdn.digitaloceanspaces.com^$important
 @@|pop-os.org^$important
 @@|pop.system76.com^$important
-@@|pornhub.com^$important
-@@|pornhubpremium.com^$important
-@@|pornone.com^$important
-@@|porntrex.com^$important
-@@|pornwild.com^$important
-@@|pornwild.to^$important
 @@|poro.ato.gov.au^$important
 @@|portableapps.com^$important
 @@|portablepython.com^$important
@@ -3204,7 +3165,6 @@
 @@|priceengine-public-service-prod.ak.epicgames.com^$important
 @@|pricing.gog.com^$important
 @@|privacy.microsoft.com^$important
-@@|privacy.sexy^$important
 @@|privacy.xboxlive.com^$important
 @@|privacyaustralia.net^$important
 @@|privacybadger.org^$important
@@ -3419,7 +3379,6 @@
 @@|run.publictracker.xyz^$important
 @@|rzr.to^$important
 @@|s*.filefactory.com^$important
-@@|s*.pornone.com^$important
 @@|s*.rapidgator.net^$important
 @@|s*.riotpixels.net^$important
 @@|s*.symcb.com^$important
@@ -3430,7 +3389,6 @@
 @@|s.youtube.com^$important
 @@|s.ytimg.com^$important
 @@|s2.youtube.com^$important
-@@|s295.pornone.com^$important
 @@|s3-eu-west-1.amazonaws.com^$important
 @@|s3.us-west-002.backblazeb2.com^$important
 @@|s3.wasabisys.com^$important
@@ -3700,9 +3658,6 @@
 @@|static*.brave.com^$important
 @@|static*.cdn.ubi.com^$important
 @@|static*.ubi.com^$important
-@@|static-*-cdn.eporner.com^$important
-@@|static-*.nexusmods.com^$important
-@@|static-*.xvideos-cdn.com^$important
 @@|static-assets-prod.epicgames.com^$important
 @@|static-assets-prod.unrealengine.com^$important
 @@|static-cache.k2s.cc^$important
@@ -3961,7 +3916,6 @@
 @@|terrywhitechemmart.com.au^$important
 @@|test.steampowered.com^$important
 @@|text.svc.halowaypoint.com^$important
-@@|th-eu4.pornone.com^$important
 @@|th.bing.com^$important
 @@|th.wallhaven.cc^$important
 @@|theantisocialengineer.com^$important
@@ -4192,7 +4146,6 @@
 @@|urbackup.atlassian.net^$important
 @@|us-as.gr-cdn.com^$important
 @@|us-east-2-gateway.zionprod.systems^$important
-@@|us-img.freeones.com^$important
 @@|us-s2-depot.classic.blizzard.com^$important
 @@|us-ut-mirror.chaotic.cx^$important
 @@|us.api.blizzard.com^$important
@@ -4279,7 +4232,6 @@
 @@|vod-secure.twitch.tv^$important
 @@|voidtools.com^$important
 @@|vortex.data.microsoft.com^$important
-@@|vporn.com^$important
 @@|vr.google.com^$important
 @@|vsa-prod.services.microsoft.com^$important
 @@|vsa.services.microsoft.com^$important
@@ -4307,7 +4259,6 @@
 @@|wallpaperaccess.com^$important
 @@|watchdog.gallery.vsassets.io^$important
 @@|watchdog.gallerycdn.vsassets.io^$important
-@@|watchporn.to^$important
 @@|wave.sndcdn.com^$important
 @@|wcpstatic.microsoft.com^$important
 @@|wcsprdstg.cmltd.net.au^$important
@@ -4462,7 +4413,6 @@
 @@|www.environment.nsw.gov.au^$important
 @@|www.epa.nsw.gov.au^$important
 @@|www.epicgames.com^$important
-@@|www.eporner.com^$important
 @@|www.eset.com^$important
 @@|www.evernote.com^$important
 @@|www.eway.com.au^$important
@@ -4478,8 +4428,6 @@
 @@|www.fosslinux.com^$important
 @@|www.fossmint.com^$important
 @@|www.freebsd.org^$important
-@@|www.freeones.com^$important
-@@|www.freeones.xxx^$important
 @@|www.fsarchiver.org^$important
 @@|www.fxsound.com^$important
 @@|www.geforce.com^$important
@@ -4512,7 +4460,6 @@
 @@|www.henrypp.org^$important
 @@|www.hirensbootcd.org^$important
 @@|www.hitmanpro.com^$important
-@@|www.hotpornfile.org^$important
 @@|www.howtogeek.com^$important
 @@|www.https-rulesets.org^$important
 @@|www.humblebundle.com^$important
@@ -4615,8 +4562,6 @@
 @@|www.podnapisi.net^$important
 @@|www.police.nsw.gov.au^$important
 @@|www.pool.ntp.org^$important
-@@|www.pornhub.com^$important
-@@|www.porntrex.com^$important
 @@|www.powershellgallery.com^$important
 @@|www.privacytools.io^$important
 @@|www.programmingfonts.org^$important
@@ -4718,8 +4663,6 @@
 @@|www.woolworths.com.au^$important
 @@|www.xbox.com^$important
 @@|www.xboxab.com^$important
-@@|www.xradio.nl^$important
-@@|www.xvideos.com^$important
 @@|www.youtube-nocookie.com^$important
 @@|www.youtube.com^$important
 @@|www.youtubekids.com^$important
@@ -4760,15 +4703,11 @@
 @@|xpui.app.spotify.com^$important
 @@|xsts.auth.xboxlive.com^$important
 @@|xt.streamlabs.com^$important
-@@|xvideos-cdn.com^$important
-@@|xvideos.com^$important
-@@|xxx-image.com^$important
 @@|yahoo.com^$important
 @@|yari-demos.prod.mdn.mozit.cloud^$important
 @@|yelp.com^$important
 @@|yewtu.be^$important
 @@|yimg.com^$important
-@@|youpornpremium.com^$important
 @@|youtu.be^$important
 @@|youtube-dl.org^$important
 @@|youtube-nocookie.com^$important
