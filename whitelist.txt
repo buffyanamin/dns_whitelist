@@ -375,7 +375,6 @@
 @@|api.my.gov.au^$important
 @@|api.na-backend.odysee.com^$important
 @@|api.netflix.com^$important
-@@|api.nexusmods.com^$important
 @@|api.nfl.com^$important
 @@|api.nordvpn.com^$important
 @@|api.nuget.org^$important
@@ -887,7 +886,6 @@
 @@|cert.mgt.xboxlive.com^$important
 @@|certbot.eff.org^$important
 @@|cf-builds.garudalinux.org^$important
-@@|cf-files.nexusmods.com^$important
 @@|cf-hls-media.sndcdn.com^$important
 @@|cfcdn.neosmart.net^$important
 @@|cfg.gog.com^$important
@@ -1176,7 +1174,6 @@
 @@|data*.origin.com^$important
 @@|data-api.downdetector.com^$important
 @@|data-cdn.mbamupdates.com^$important
-@@|data.nexusmods.com^$important
 @@|data.nsw.gov.au^$important
 @@|data.product.lastpass.com^$important
 @@|databridge.tdbtrk.com^$important
@@ -1647,7 +1644,6 @@
 @@|feedback.aliexpress.com^$important
 @@|feedback.eset.com^$important
 @@|feedback.googleusercontent.com^$important
-@@|feedback.nexusmods.com^$important
 @@|feedback.xbox.com^$important
 @@|feedback.xda-developers.com^$important
 @@|feedbackservice.teamviewer.com^$important
@@ -1663,7 +1659,6 @@
 @@|fi.google.com^$important
 @@|fi.m.wikipedia.com^$important
 @@|fi.wikipedia.com^$important
-@@|file-metadata.nexusmods.com^$important
 @@|filefactory.com^$important
 @@|filefactory.us6.list-manage.com^$important
 @@|filejoker.net^$important
@@ -1714,7 +1709,6 @@
 @@|forum.kaspersky.com^$important
 @@|forum.makemkv.com^$important
 @@|forum.manjaro.org^$important
-@@|forum.nexusmods.com^$important
 @@|forum.palemoon.org^$important
 @@|forum.snahp.it^$important
 @@|forum.techhut.tv^$important
@@ -1729,7 +1723,6 @@
 @@|forums.geforce.com^$important
 @@|forums.getpaint.net^$important
 @@|forums.linuxmint.com^$important
-@@|forums.nexusmods.com^$important
 @@|forums.opensuse.org^$important
 @@|forums.plex.tv^$important
 @@|forums.roku.com^$important
@@ -2143,7 +2136,6 @@
 @@|images.easeus.com^$important
 @@|images.gog-statics.com^$important
 @@|images.gog.com^$important
-@@|images.nexusmods.com^$important
 @@|images.nvidia.com^$important
 @@|images.officeworks.com.au^$important
 @@|images.pcgamingwiki.com^$important
@@ -2532,7 +2524,6 @@
 @@|media.kaspersky.com^$important
 @@|media.kingston.com^$important
 @@|media.moddb.com^$important
-@@|media.nexusmods.com^$important
 @@|media.playstation.com^$important
 @@|media.prod.bunnings.com.au^$important
 @@|media.richrelevance.com^$important
@@ -2812,11 +2803,9 @@
 @@|news.usenet.farm^$important
 @@|news.xbox.com^$important
 @@|newvirus.kaspersky.com^$important
-@@|next.nexusmods.com^$important
 @@|nexus-collections-temp.s3.*.backblazeb2.com^$important
 @@|nexus-files.b-cdn.net^$important
 @@|nexus-media*.backblazeb2.com^$important
-@@|nexusmods.com^$important
 @@|nginx.org^$important
 @@|nightlies.videolan.org^$important
 @@|nike.com^$important
@@ -3236,7 +3225,6 @@
 @@|purchase.mp.microsoft.com^$important
 @@|push.chocolatey.org^$important
 @@|push.services.mozilla.com^$important
-@@|pw.nexusmods.com^$important
 @@|pypi.org^$important
 @@|pythonanywhere.com^$important
 @@|q.ebaystatic.com^$important
@@ -3431,7 +3419,6 @@
 @@|seal-sanjose.bbb.org^$important
 @@|search.brave.com^$important
 @@|search.f-droid.org^$important
-@@|search.nexusmods.com^$important
 @@|search.spotxchange.com^$important
 @@|search.vimeo.com^$important
 @@|sebsauvage.net^$important
@@ -3636,7 +3623,6 @@
 @@|ssl.p.jwpcdn.com^$important
 @@|ssl.reddit.com^$important
 @@|sso-static.razer.com^$important
-@@|sso.nexusmods.com^$important
 @@|st*.debrid.link^$important
 @@|st-syd-02.gcomm.com.au.prod.hosts.ooklaserver.net^$important
 @@|st-syd-02.gcomm.com.au^$important
@@ -3722,7 +3708,6 @@
 @@|static2.sharepointonline.com^$important
 @@|staticcdn.duckduckgo.com^$important
 @@|staticctf.akamaized.net^$important
-@@|staticdelivery.nexusmods.com^$important
 @@|staticfiles.acronis.com^$important
 @@|statics-*.onestore.ms^$important
 @@|statics-marketingsites-eas-ms-com.akamaized.net^$important
@@ -3732,7 +3717,6 @@
 @@|statics-xbc-eas.xbox.com^$important
 @@|statics.cdntrex.com^$important
 @@|statics.teams.cdn.live.net^$important
-@@|staticstats.nexusmods.com^$important
 @@|staticview.msn.com^$important
 @@|stats-prod.svc.gearsofwar.net^$important
 @@|stats.appwork.org^$important
@@ -4134,7 +4118,6 @@
 @@|upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net^$important
 @@|uplaypc-s-ubisoft.cdn.ubi.com^$important
 @@|upload.filefactory.com^$important
-@@|upload.nexusmods.com^$important
 @@|upload.vimeo.com^$important
 @@|upload.wikimedia.org^$important
 @@|uploaded.net^$important
@@ -4167,7 +4150,6 @@
 @@|user.auth.xboxlive.com^$important
 @@|userpresence.xboxlive.com^$important
 @@|users.gog.com^$important
-@@|users.nexusmods.com^$important
 @@|userscripts.adtidy.org^$important
 @@|userstats.xboxlive.com^$important
 @@|userstyles.org^$important
@@ -4282,7 +4264,6 @@
 @@|wiki.debian.org^$important
 @@|wiki.manjaro.org^$important
 @@|wiki.mozilla.org^$important
-@@|wiki.nexusmods.com^$important
 @@|wiki.ubuntu.com^$important
 @@|wiki.videolan.org^$important
 @@|wikihow.com^$important
@@ -4519,7 +4500,6 @@
 @@|www.nbnco.com.au^$important
 @@|www.nerdfonts.com^$important
 @@|www.newshosting.com^$important
-@@|www.nexusmods.com^$important
 @@|www.nirsoft.net^$important
 @@|www.nitroflare.com^$important
 @@|www.nongshim.com.au^$important
