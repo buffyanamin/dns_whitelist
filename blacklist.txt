@@ -39,3 +39,4 @@
 ||nexusmods.com^
 ||pixnet.net^
 ||xiaoxintv.com^
+||rumble.com^
