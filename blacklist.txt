@@ -44,3 +44,8 @@
 ||fitgirl-repacks.site^
 ||vipr.im^
 ||sanet.st^
+||sanet.lc^
+||softarchive.is^
+||sanet.ws^
+||sanet.sb^
+||soft.ac^
