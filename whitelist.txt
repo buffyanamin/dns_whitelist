@@ -2,3 +2,4 @@
 # @@|laptop-updates.brave.com^$important (disabled)
 # @@|rewards.brave.com^$important (disabled)
 # @@|variations.brave.com^$important (disabled)
+@@/*java*/$important
