@@ -49,5 +49,16 @@
 ||sanet.ws^
 ||sanet.sb^
 ||soft.ac^
+||xinmeitulu.com^
+||akywt.com^
+||xgmtu01.com^
+||xiuwo.net^
+||hdleg.com^
+||mtmeinv.com^
+||sfnmt.com^
+||246.one^
+||meinvku.org.cn^
 /jav/
 /nude/
+/\.pics/
+/taotu/
